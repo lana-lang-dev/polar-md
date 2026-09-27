@@ -1,3 +1,11 @@
+*.zip
+bear-markdown-macos-apple-silicon.zip
+bear-markdown-macos-apple-silicon.zip
+polar-md.zip
+.venv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
